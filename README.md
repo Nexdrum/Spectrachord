@@ -1,2 +1,2 @@
-# Nebular
+# Spectrachord 
 Midi grid
